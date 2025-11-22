@@ -1,0 +1,16 @@
+name: simui
+id: ari:cloud:compass:6531ebe9-1b3a-4f2a-8653-180c5ab1b17d:component/a11e654f-fbb0-4383-891d-d22c4dacf0af/b60ea504-9386-4608-8243-512dc83ece21
+description: SimUI is a curated collection of ready-to-use components to quickly build modern application UIs. Powered by Angular, Tailwind CSS and Spartan UI
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/thewlabs/simui
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
